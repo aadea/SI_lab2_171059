@@ -13,7 +13,7 @@
 
 ### Control Flow Graph:
 
-![](\image\SILab2.png)
+![Control Flow Graph](/image/SILab2.png)
 
 
 
