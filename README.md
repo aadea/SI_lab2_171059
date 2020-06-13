@@ -11,10 +11,9 @@
 ### Група на код:
 Ја добив групата на код 5
 
-
 ### Control Flow Graph:
 
-### ![](C:\Users\Adea\Documents\Adea\6 semester\SI\SILab2.png)
+![](C:\Users\Adea\Desktop\SI_lab2_171059\image\SILab2.png)
 
 
 
