@@ -13,7 +13,7 @@
 
 ### Control Flow Graph:
 
-![](C:\Users\Adea\Desktop\SI_lab2_171059\image\SILab2.png)
+![](\image\SILab2.png)
 
 
 
